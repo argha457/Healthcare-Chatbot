@@ -6,13 +6,14 @@ A healthcare chatbot designed to assist users in diagnosing potential diseases b
 
 ## 📄 Table of Contents
 
-1. [Meet the Team](#meet-the-team)
-2. [Overview](#overview)
-3. [Key Features](#key-features)
-4. [Technologies Used](#technologies-used)
-5. [Challenges Faced](#challenges-faced)
-6. [Future Enhancements](#future-enhancements)
-7. [Contributing](#contributing)
+1. [Meet the Team](#-meet-the-team)
+2. [Overview](#-overview)
+3. [Key Features](#-key-features)
+4. [Technologies Used](#-technologies-used)
+5. [Challenges Faced](#-challenges-faced)
+6. [Future Enhancements](#-future-enhancements)
+7. [Contributing](#-contributing)
+
 
 ---
 
