@@ -289,12 +289,9 @@ class MainForm(Frame):
         self.lblTeam.pack()
         self.lblTeam3=Label(self, text="Team Name:--\n TechPirates", bg="blue", width = "300", height = "2", font=("Calibri", 13))
         self.lblTeam3.pack()
-        self.lblTeam1=Label(self, text="Member 1: Argha Bandyopadhyay", bg="yellow1", width = "250", height = "1", font=("Calibri", 13))
+        self.lblTeam1=Label(self, text="Argha Bandyopadhyay", bg="yellow1", width = "250", height = "1", font=("Calibri", 13))
         self.lblTeam1.pack()
-        self.lblTeam2=Label(self, text="Member 2: Soumojit Banerjee", bg="yellow2", width = "250", height = "1", font=("Calibri", 13))
-        self.lblTeam2.pack()
-        self.lblTeam3=Label(self, text="Member 3: Subham Biswas", bg="yellow1", width = "250", height = "1", font=("Calibri", 13))
-        self.lblTeam3.pack()
+       
         
         
     def lblLogin_Click(self):
