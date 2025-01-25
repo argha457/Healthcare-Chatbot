@@ -6,24 +6,22 @@ A healthcare chatbot designed to assist users in diagnosing potential diseases b
 
 ## 📄 Table of Contents
 
-1. [Meet the Team](#-meet-the-team)
-2. [Overview](#-overview)
-3. [Key Features](#-key-features)
-4. [Technologies Used](#-technologies-used)
-5. [Challenges Faced](#-challenges-faced)
-6. [Future Enhancements](#-future-enhancements)
-7. [Contributing](#-contributing)
+1. [Overview](#-overview)
+2. [Key Features](#-key-features)
+3. [Technologies Used](#-technologies-used)
+4. [Challenges Faced](#-challenges-faced)
+5. [Future Enhancements](#-future-enhancements)
+6. [Contributing](#-contributing)
 
 
 ---
 
 ## 👥 Meet the Team
 
-This project was developed by an awesome team of developers. Connect with us on LinkedIn:
+This project was developed by
 
 - [Argha Bandyopadhyay](https://www.linkedin.com/in/argha-bandyopadhyay-a856b5292/) 🌟
-- [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/) 🚀
-- [Subham Biswas](https://www.linkedin.com/in/subham-biswas-768b47255/) 💻
+
 
 ---
 
